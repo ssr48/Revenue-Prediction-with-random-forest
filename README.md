@@ -12,3 +12,5 @@ This file merges the faculty and student data at Term and Course ID level to att
 
 ## Predictions
 Predictions uses random forest and linear regressions to predict revenues for FY21. The predictions uses fall term enrollments as a basis for final revenues in the previous years. Training the data for three years based on student and course features, this file predicts FY21 revenues based on enrollment data for Fall 2020. After comparisons between linear regressions and random forest, we choose random forest as the best predictive model.
+
+![image](https://user-images.githubusercontent.com/25066236/113500451-aca65100-94e3-11eb-9583-eb878a669d73.png)
